@@ -1,0 +1,1 @@
+This repository contains tech talks I've found interesting and helpful. They will be broken down into categories.
